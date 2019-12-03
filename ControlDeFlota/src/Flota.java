@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+// Cambios realizados a Flota
 public class Flota {
 	ArrayList<Vehiculo> vehiculos;
 
