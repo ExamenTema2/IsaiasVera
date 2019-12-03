@@ -33,4 +33,6 @@ public class Vehiculo {
 		this.modelo = modelo;
 	}
 	//Autor: Osvaldo Isaias Vera Benitez
+		//Descripcion: Vehiculo perteneciente a una flota de vehiculos
+
 }
